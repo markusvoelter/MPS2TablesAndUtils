@@ -527,6 +527,17 @@
               <property name="value" nameId="tpee.1068580320021" value="0" />
             </node>
           </node>
+          <node role="statement" roleId="tpee.1068581517665" type="tpe3.AssertEquals" typeId="tpe3.1171978097730" id="2282352148642074719">
+            <node role="expected" roleId="tpe3.8427750732757990724" type="tpee.LocalInstanceMethodCall" typeId="tpee.3066917033203108594" id="2282352148642074720">
+              <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="2960767502640604858" resolveInfo="range" />
+              <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2282352148642074721">
+                <property name="value" nameId="tpee.1068580320021" value="3" />
+              </node>
+            </node>
+            <node role="actual" roleId="tpe3.8427750732757990725" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="2282352148642074722">
+              <property name="value" nameId="tpee.1068580320021" value="0" />
+            </node>
+          </node>
         </node>
       </node>
     </node>
