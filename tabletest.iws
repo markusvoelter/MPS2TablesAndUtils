@@ -40,6 +40,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9c1942f-e128-49d2-8158-0506e70dbecf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/NewSolution/FB01_x.mps" afterPath="$PROJECT_DIR$/solutions/NewSolution/FB01_x.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/NewSolution/FB02_x.mps" afterPath="$PROJECT_DIR$/solutions/NewSolution/FB02_x.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tabletest.iws" afterPath="$PROJECT_DIR$/tabletest.iws" />
     </list>
     <ignored path="tabletest.iws" />
@@ -69,7 +71,71 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="XX" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://m/XX">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectedCell cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="r:1caf8eca-b011-4bd2-a27f-da79e24c07a5(m)" id="7827023534244214422" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="15" selStart="0" selEnd="0" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeTest_Test" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://x/RangeTest_Test">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectedCell cellId="Constant_q24t2b_c0" cellNumber="0" isInList="false">
+                  <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2960767502640604894" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="211" selStart="0" selEnd="6" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDecisionTables_Test" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://x/TestDecisionTables_Test">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento>
+                <selectedCell cellId="Constant_q24t2b_a0" cellNumber="0" isInList="false">
+                  <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2960767502640610179" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="55" selStart="1" selEnd="1" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
@@ -316,7 +382,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="VCSRoots" />
       <pane id="FileSystem">
         <subPane>
           <PATH>
@@ -328,53 +393,9 @@
         </subPane>
       </pane>
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tabletest" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tabletest" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dt" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tabletest" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewSolution" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tabletest" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExprBlockTest" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="m" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
+      <pane id="VCSRoots" />
       <pane id="Favorites" />
     </panes>
   </component>
@@ -391,7 +412,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.NewSolution">
+  <component name="RunManager">
     <configuration default="false" name="NewSolution" type="JUnit" factoryName="JUnit" temporary="true">
       <MyState>
         <option name="myJavaRunParameters">
@@ -479,7 +500,7 @@
     <frame x="0" y="22" width="1366" height="742" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.4910581" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.47913563" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3430769" sideWeight="0.49552906" order="26" side_tool="false" content_ui="tabs" />
       <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49701938" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -497,7 +518,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.62593144" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.49254844" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.50298065" order="27" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.5149031" order="27" side_tool="true" content_ui="tabs" />
       <window_info id="Concept Structure" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32844576" sideWeight="0.48915917" order="20" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
@@ -827,9 +848,12 @@
             <textLine caretPosition="748" selStart="3" selEnd="3" />
           </memento>
           <inspectorMemento>
+            <selectedCell cellId="property_name" cellNumber="0" isInList="false">
+              <node model="r:097c15dc-8d65-4865-8fd0-c0ec16cccf20(jetbrains.mps.baselanguage.exprblocks.generator.template.main@generator)" id="2282352148642042771" />
+            </selectedCell>
             <selectedStack />
             <folded />
-            <textLine caretPosition="null" selStart="null" selEnd="null" />
+            <textLine caretPosition="748" selStart="3" selEnd="3" />
           </inspectorMemento>
         </state>
       </provider>
@@ -846,9 +870,12 @@
             <textLine caretPosition="187" selStart="0" selEnd="0" />
           </memento>
           <inspectorMemento>
+            <selectedCell cellId="property_name" cellNumber="0" isInList="false">
+              <node model="r:4bdcf2ca-48fd-4477-8800-87374de97951(dt.generator.template.main@generator)" id="630605930737549402" />
+            </selectedCell>
             <selectedStack />
             <folded />
-            <textLine caretPosition="null" selStart="null" selEnd="null" />
+            <textLine caretPosition="187" selStart="0" selEnd="0" />
           </inspectorMemento>
         </state>
       </provider>
@@ -859,12 +886,12 @@
           <memento>
             <selectedStack />
             <folded />
-            <textLine caretPosition="null" selStart="null" selEnd="null" />
+            <textLine caretPosition="0" selStart="0" selEnd="0" />
           </memento>
           <inspectorMemento>
             <selectedStack />
             <folded />
-            <textLine caretPosition="null" selStart="null" selEnd="null" />
+            <textLine caretPosition="0" selStart="0" selEnd="0" />
           </inspectorMemento>
           <node nodeId="2282352148642071333" modelId="r:097c15dc-8d65-4865-8fd0-c0ec16cccf20(jetbrains.mps.baselanguage.exprblocks.generator.template.main@generator)" />
         </state>
@@ -882,11 +909,24 @@
             <textLine caretPosition="337" selStart="6" selEnd="6" />
           </memento>
           <inspectorMemento>
+            <selectedCell cellId="property_name" cellNumber="0" isInList="false">
+              <node model="r:097c15dc-8d65-4865-8fd0-c0ec16cccf20(jetbrains.mps.baselanguage.exprblocks.generator.template.main@generator)" id="2282352148642071335" />
+            </selectedCell>
             <selectedStack />
             <folded />
-            <textLine caretPosition="null" selStart="null" selEnd="null" />
+            <textLine caretPosition="337" selStart="6" selEnd="6" />
           </inspectorMemento>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/NewSolution/source_gen/x/TestDecisionTables_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="8" selection-start="881" selection-end="881" vertical-scroll-proportion="0.029411765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/NewSolution/source_gen/x/RangeTest_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="373" selection-end="373" vertical-scroll-proportion="0.44117647" />
       </provider>
     </entry>
     <entry file="mps://m/XX">
@@ -908,35 +948,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/NewSolution/source_gen/x/TestDecisionTables_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="8" selection-start="881" selection-end="881" vertical-scroll-proportion="0.029411765" />
-      </provider>
-    </entry>
-    <entry file="mps://x/TestDecisionTables_Test">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento>
-            <selectedCell cellId="Collection_ml6tu4_a" cellNumber="0" isInList="false">
-              <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2150013547071016482" />
-            </selectedCell>
-            <selectedStack />
-            <folded />
-            <textLine caretPosition="0" selStart="null" selEnd="null" />
-          </memento>
-          <inspectorMemento>
-            <selectedStack />
-            <folded />
-            <textLine caretPosition="null" selStart="null" selEnd="null" />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/NewSolution/source_gen/x/RangeTest_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="18" selection-start="373" selection-end="373" vertical-scroll-proportion="0.44117647" />
-      </provider>
-    </entry>
     <entry file="mps://x/RangeTest_Test">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
@@ -947,6 +958,25 @@
             <selectedStack />
             <folded />
             <textLine caretPosition="211" selStart="0" selEnd="6" />
+          </memento>
+          <inspectorMemento>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="null" selStart="null" selEnd="null" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://x/TestDecisionTables_Test">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento>
+            <selectedCell cellId="Constant_q24t2b_a0" cellNumber="0" isInList="false">
+              <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2960767502640610179" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="55" selStart="1" selEnd="1" />
           </memento>
           <inspectorMemento>
             <selectedStack />

@@ -3,7 +3,6 @@
   <persistence version="7" />
   <language namespace="8f8c9f6f-a16c-41d0-9d84-fcb634712f6a(dt)" />
   <language namespace="f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)" />
-  <language namespace="fe019070-badf-4eca-9dab-9292cf7a11b7(ble)" />
   <language namespace="f61473f9-130f-42f6-b98d-6c438812c2f6(jetbrains.mps.baseLanguage.unitTest)" />
   <import index="1owy" modelUID="r:77ba56f5-f631-4a14-a1a7-af66972908e5(tableutil)" version="0" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
@@ -11,7 +10,6 @@
   <import index="u0gv" modelUID="r:4e91f431-6336-4c26-9693-050ae6a27ec2(dt.structure)" version="-1" implicit="yes" />
   <import index="61ex" modelUID="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" version="-1" implicit="yes" />
   <import index="tpe3" modelUID="r:00000000-0000-4000-0000-011c895902d7(jetbrains.mps.baseLanguage.unitTest.structure)" version="-1" implicit="yes" />
-  <import index="qtfi" modelUID="r:6e73594d-79d7-4777-bd82-86990b515edd(ble.structure)" version="-1" implicit="yes" />
   <roots>
     <node type="tpe3.BTestCase" typeId="tpe3.1171931851043" id="2150013547071010775">
       <property name="testCaseName" nameId="tpe3.1171931851045" value="TestDecisionTables" />
