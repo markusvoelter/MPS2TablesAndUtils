@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <option name="myBookmarkInfos">
+      <array>
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+        <BookmarkInfo />
+      </array>
+    </option>
+  </component>
+  <component name="BookmarksTool">
+    <option name="myTreeState">
+      <TreeState>
+        <option name="expansion">
+          <list>
+            <option value="/" />
+          </list>
+        </option>
+      </TreeState>
+    </option>
+  </component>
+  <component name="BreakpointManager">
+    <breakpoint kind="JAVA_LINE_BREAKPOINT">
+      <JavaBreakpointInfo>
+        <option name="mySuspendPolicy" value="2" />
+        <option name="myModelReference" value="r:6171eed0-8e68-4b91-b2cb-42e48fbeda22(x@2_0)" />
+        <option name="myNodeId" value="1091807075249895339" />
+        <option name="myCreationTime" value="1294219784066" />
+        <option name="myIsEnabled" value="true" />
+      </JavaBreakpointInfo>
+    </breakpoint>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9c1942f-e128-49d2-8158-0506e70dbecf" name="Default" comment="" />
+    <ignored path="tabletest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DefaultSearchOptionsComponent">
+    <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.FindersOptions">
+      <finders>
+        <finder class_name="jetbrains.mps.lang.structure.findUsages.NodeUsages_Finder" />
+      </finders>
+    </option>
+    <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.ViewOptions">
+      <flags show_one_result="true" new_tab="false" />
+    </option>
+    <option class_name="jetbrains.mps.ide.findusages.view.optionseditor.options.ScopeOptions">
+      <scope_type scope_type="project_scope" module="&lt;default&gt;" model="&lt;default&gt;" />
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DecTab" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://dt.structure/DecTab">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.tabbedEditor.TabbedEditor$MyFileEditorState" tab="10">
+              <memento>
+                <selectedCell cellId="Collection_i0gfbw_a" cellNumber="0" isInList="false">
+                  <node model="r:4bdcf2ca-48fd-4477-8800-87374de97951(dt.generator.template.main@generator)" id="630605930737607514" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="0" selStart="null" selEnd="null" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+              <inner_tabs>
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+                <tab index="0" />
+              </inner_tabs>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDecisionTables_Test" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://x/TestDecisionTables_Test">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+              <memento>
+                <selectedCell cellId="Constant_q24t2b_a0" cellNumber="0" isInList="false">
+                  <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2150013547071016486" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="55" selStart="0" selEnd="0" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XYCTableModel" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://tableutil/XYCTableModel">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+              <memento>
+                <selectedCell cellId="ReferencePresentation_91bvrs_a0a0" cellNumber="0" isInList="false">
+                  <node model="r:77ba56f5-f631-4a14-a1a7-af66972908e5(tableutil)" id="1785869876438082977" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="590" selStart="5" selEnd="5" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TableModel" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://jetbrains.mps.lang.editor.table.runtime/TableModel">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+              <memento>
+                <selectedCell cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:b60215f1-3d3e-41cc-8321-723ef8eb59dd(jetbrains.mps.lang.editor.table.runtime)" id="4490468428501048480" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="230" selStart="5" selEnd="5" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XYCTableModel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/jetbrains.mps.lang.editor.table.utils/source_gen/tableutil/XYCTableModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tableutil.mps" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/jetbrains.mps.lang.editor.table.utils/tableutil.mps">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jetbrains.mps.lang.editor.table.utils.msd" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/jetbrains.mps.lang.editor.table.utils/jetbrains.mps.lang.editor.table.utils.msd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GSwitchRtBase" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://main/GSwitchRtBase">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+              <memento>
+                <selectedCell cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="r:bc6b1876-aa5e-4da6-82ff-00553cb5f1fe(main)" id="630605930737754536" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="15" selStart="0" selEnd="0" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeTest_Test" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://x/RangeTest_Test">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+              <memento>
+                <selectedCell cellId="property_testCaseName" cellNumber="0" isInList="false">
+                  <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2960767502640604850" />
+                </selectedCell>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="110" selStart="0" selEnd="0" />
+              </memento>
+              <inspectorMemento>
+                <selectedStack />
+                <folded />
+                <textLine caretPosition="null" selStart="null" selEnd="null" />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/solutions/NewSolution/source_gen/x/XX.java" />
+        <option value="$PROJECT_DIR$/solutions/NewSolution/source_gen/x/TestDecisionTables_Test.java" />
+        <option value="$PROJECT_DIR$/languages/dt/source_gen/dt/editor/DecTab_Editor.java" />
+        <option value="$PROJECT_DIR$/solutions/jetbrains.mps.lang.editor.table.utils/jetbrains.mps.lang.editor.table.utils.msd" />
+      </list>
+    </option>
+  </component>
+  <component name="MessagesViewTool">
+    <option name="autoscrollToSource" value="true" />
+    <option name="warnings" value="true" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectPluginManager">
+    <option name="pluginsState">
+      <option name="jetbrains.mps.baseLanguage.collections.plugin.Collections_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.collections.trove.plugin.Trove_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.dates.plugin.Dates_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.plugin.BaseLanguage_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.baseLanguage.unitTest.plugin.UnitTest_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.baseLanguage.unitTest.plugin.JUnitTestActionOptions_PreferencesComponent" />
+                  <params>
+                    <option name="isHidePassed" value="false" />
+                    <option name="isSelectFirstFailed" value="false" />
+                    <option name="isTrackRunning" value="false" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.build.custommps.plugin.Custommps_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.build.generictasks.plugin.Generictasks_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.build.packaging.mps.plugin.Mps_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.build.packaging.plugin.Packaging_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.buildlanguage.plugin.Buildlanguage_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.buildlanguage.plugin.AntRunnerPreferences_PreferencesComponent" />
+                  <params>
+                    <option name="data">
+                      <map />
+                    </option>
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.ide.actions.Ide_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="jetbrains.mps.ide.actions.PersistentOptions_PreferencesComponent" />
+                  <params>
+                    <option name="addReturnsOnImplement" value="false" />
+                    <option name="sortAlphabetically" value="false" />
+                    <option name="addOverrideAnnotation" value="true" />
+                    <option name="removeAttributes" value="true" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.behavior.plugin.Behavior_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.core.plugin.Core_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.dataFlow.plugin.DataFlow_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.editor.plugin.Editor_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.quotation.plugin.Quotation_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.refactoring.plugin.Refactoring_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.script.plugin.Script_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.smodel.plugin.Smodel_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.structure.plugin.Structure_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.test.plugin.Test_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.lang.typesystem.plugin.Typesystem_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.make.facet.plugin.Facet_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.quickQueryLanguage.plugin.QuickQueryLanguage_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.gwt.plugin.Gwt_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.internal.testdata.plugin.Testdata_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.modeling.plugin.Modeling_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.plugin.Ui_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.swing.plugin.Swing_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ui.swt.plugin.Swt_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.uiLanguage.plugin.UiLanguage_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.vcs.plugin.Vcs_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.ypath.plugin.Ypath_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+    </option>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dt" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dt" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="editor" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dt" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="structure" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains.mps.lang.editor.table.utils" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tableutil" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ble.runtime" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewSolution" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="x" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="VCSRoots" />
+      <pane id="Favorites" />
+      <pane id="FileSystem">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains.mps.lang.editor.table.utils" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains.mps.lang.editor.table.utils" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains.mps.lang.editor.table.utils" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jetbrains.mps.lang.editor.table.utils" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source_gen" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tableutil" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tabletest" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewSolution" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.options.prefs.page" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.NewSolution">
+    <configuration default="false" name="SomeClass" type="JavaApplication" factoryName="Java Application" temporary="true">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="false" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodeId" value="8426506178580900156" />
+        <option name="modelId" value="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" />
+      </MyState>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="x" type="JUnit" factoryName="JUnit" temporary="true">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="false" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodes">
+          <list />
+        </option>
+        <option name="testCases">
+          <list />
+        </option>
+        <option name="model" value="x" />
+        <option name="module" />
+        <option name="fullMethodNames">
+          <list />
+        </option>
+        <option name="testMethods">
+          <list />
+        </option>
+        <option name="type" value="MODEL" />
+      </MyState>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestDecisionTables_Test" type="JUnit" factoryName="JUnit" temporary="true">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="false" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodes">
+          <list />
+        </option>
+        <option name="testCases">
+          <list>
+            <option value="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)%2150013547071010775" />
+          </list>
+        </option>
+        <option name="model" />
+        <option name="module" />
+        <option name="fullMethodNames">
+          <list />
+        </option>
+        <option name="testMethods">
+          <list />
+        </option>
+        <option name="type" value="NODE" />
+      </MyState>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RangeTest_Test" type="JUnit" factoryName="JUnit" temporary="true">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="false" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodes">
+          <list />
+        </option>
+        <option name="testCases">
+          <list>
+            <option value="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)%2960767502640604850" />
+          </list>
+        </option>
+        <option name="model" />
+        <option name="module" />
+        <option name="fullMethodNames">
+          <list />
+        </option>
+        <option name="testMethods">
+          <list />
+        </option>
+        <option name="type" value="NODE" />
+      </MyState>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NewSolution" type="JUnit" factoryName="JUnit" temporary="true">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="false" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodes">
+          <list />
+        </option>
+        <option name="testCases">
+          <list />
+        </option>
+        <option name="model" />
+        <option name="module" value="NewSolution" />
+        <option name="fullMethodNames">
+          <list />
+        </option>
+        <option name="testMethods">
+          <list />
+        </option>
+        <option name="type" value="MODULE" />
+      </MyState>
+      <RunnerSettings RunnerId="Default Runner" />
+      <ConfigurationWrapper RunnerId="Default Runner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaApplication" factoryName="Java Application">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="false" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodeId" />
+        <option name="modelId" />
+      </MyState>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <RemoteConnectionSettings>
+        <option name="hostName" value="localhost" />
+        <option name="port" value="5005" />
+        <option name="sharedMemoryAddress" value="" />
+        <option name="useSockets" value="true" />
+      </RemoteConnectionSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <MyState>
+        <option name="myJavaRunParameters">
+          <ConfigRunParameters>
+            <option name="VMParameters" />
+            <option name="alternativeJRE" />
+            <option name="make" value="false" />
+            <option name="programParameters" />
+            <option name="useAlternativeJRE" value="false" />
+            <option name="workingDirectory" />
+          </ConfigRunParameters>
+        </option>
+        <option name="nodes">
+          <list />
+        </option>
+        <option name="testCases">
+          <list />
+        </option>
+        <option name="model" />
+        <option name="module" />
+        <option name="fullMethodNames">
+          <list />
+        </option>
+        <option name="testMethods">
+          <list />
+        </option>
+        <option name="type" />
+      </MyState>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Java Application.SomeClass" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.x" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestDecisionTables_Test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RangeTest_Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NewSolution" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Application" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="UPDATE_RUN_STATUS" value="false" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <configuration useDefault="true">C:\Users\Markus\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1152" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34408602" sideWeight="0.49603385" order="26" side_tool="false" content_ui="tabs" />
+      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.48545742" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33315536" sideWeight="0.6646766" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.49603385" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746822" sideWeight="0.63828665" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39010066" sideWeight="0.6619217" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942328" sideWeight="0.49603385" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Concept Structure" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3353234" sideWeight="0.0" order="27" side_tool="true" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32844576" sideWeight="0.48915917" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Analyze Stacktrace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="22" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37536657" sideWeight="0.48915917" order="23" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14119513" sideWeight="0.62463343" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UsagesViewTool">
+    <version id="0.9997" />
+    <tabs>
+      <tab>
+        <usage_view>
+          <buttons rerun="true" regenerate="true" close="true" />
+          <result_provider class_name="jetbrains.mps.ide.findusages.findalgorithm.resultproviders.treenodes.UnionNode">
+            <children>
+              <jetbrains.mps.ide.findusages.findalgorithm.resultproviders.treenodes.FinderNode>
+                <children />
+                <finder class_name="jetbrains.mps.ide.findusages.findalgorithm.finders.specific.ModelUsagesFinder" />
+              </jetbrains.mps.ide.findusages.findalgorithm.resultproviders.treenodes.FinderNode>
+            </children>
+          </result_provider>
+          <query>
+            <scope scope_type="module_scope" module_id="jetbrains.mps.lang.editor.table.utils" />
+            <holder holder_class="jetbrains.mps.ide.findusages.model.holders.ModelHolder">
+              <model uid="r:77ba56f5-f631-4a14-a1a7-af66972908e5(tableutil)" />
+            </holder>
+          </query>
+          <tree_wrapper>
+            <node_representator />
+            <view_options>
+              <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
+            </view_options>
+            <contents>
+              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.MainNodeData" caption="" info="" excluded="false" expanded="true" isresult="false" results_section="false">
+                <role name="main root" />
+              </data>
+              <children>
+                <child>
+                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.SearchedNodesNodeData" caption="Searched nodes" info="" excluded="false" expanded="true" isresult="false" results_section="false">
+                    <role name="searched nodes" />
+                  </data>
+                  <children>
+                    <child>
+                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;Searched nodes&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="false" category="Searched nodes" category_kind="Category">
+                        <role name="category:Category" />
+                      </data>
+                      <children>
+                        <child>
+                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="jetbrains.mps.lang.editor.table.utils" info="" excluded="false" expanded="true" isresult="false" results_section="false" module_ref="701ae141-a7fb-41a9-a3b5-0f4e1d468679(jetbrains.mps.lang.editor.table.utils)">
+                            <role name="module" />
+                          </data>
+                          <children>
+                            <child>
+                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="tableutil" info="" excluded="false" expanded="false" isresult="true" results_section="false">
+                                <role name="model" />
+                                <model uid="r:77ba56f5-f631-4a14-a1a7-af66972908e5(tableutil)" />
+                              </data>
+                              <children />
+                            </child>
+                          </children>
+                        </child>
+                      </children>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ResultsNodeData" caption="results" info="" excluded="false" expanded="true" isresult="false" results_section="false">
+                    <role name="results" />
+                  </data>
+                  <children>
+                    <child>
+                      <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.CategoryNodeData" caption="&lt;b&gt;usages in imports&lt;/b&gt;" info="" excluded="false" expanded="true" isresult="false" results_section="true" category="usages in imports" category_kind="Category">
+                        <role name="category:Category" />
+                      </data>
+                      <children>
+                        <child>
+                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="NewSolution" info="" excluded="false" expanded="true" isresult="false" results_section="true" module_ref="863de81f-05a2-4b19-adf5-ddc00fea69e1(NewSolution)">
+                            <role name="module" />
+                          </data>
+                          <children>
+                            <child>
+                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="x" info="" excluded="false" expanded="false" isresult="true" results_section="true">
+                                <role name="model" />
+                                <model uid="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" />
+                              </data>
+                              <children />
+                            </child>
+                          </children>
+                        </child>
+                        <child>
+                          <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModuleNodeData" caption="dt" info="" excluded="false" expanded="true" isresult="false" results_section="true" module_ref="8f8c9f6f-a16c-41d0-9d84-fcb634712f6a(dt)">
+                            <role name="module" />
+                          </data>
+                          <children>
+                            <child>
+                              <data data_class="jetbrains.mps.ide.findusages.view.treeholder.tree.nodedatatypes.ModelNodeData" caption="dt.editor" info="" excluded="false" expanded="false" isresult="true" results_section="true">
+                                <role name="model" />
+                                <model uid="r:e4149181-97cf-4f04-86b0-edd01f8b62fe(dt.editor)" />
+                              </data>
+                              <children />
+                            </child>
+                          </children>
+                        </child>
+                      </children>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </contents>
+          </tree_wrapper>
+        </usage_view>
+        <usage_view_options />
+      </tab>
+    </tabs>
+    <default_view_options>
+      <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
+    </default_view_options>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="mps://jetbrains.mps.lang.editor.structure/ConceptFunctionParameter_editorContext">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.tabbedEditor.TabbedEditor$MyFileEditorState" tab="0">
+          <memento>
+            <selectedCell cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+              <node model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" id="1161622981231" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="90" selStart="0" selEnd="0" />
+          </memento>
+          <inspectorMemento>
+            <selectedCell cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+              <node model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" id="1161622981231" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="90" selStart="0" selEnd="0" />
+          </inspectorMemento>
+          <inner_tabs>
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+          </inner_tabs>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.nodeEditor@java_stub/EditorContext">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+              <node model="f:java_stub#jetbrains.mps.nodeEditor(jetbrains.mps.nodeEditor@java_stub)" id="4086418108079063150" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="15" selStart="0" selEnd="0" />
+          </memento>
+          <inspectorMemento>
+            <selectedCell cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+              <node model="f:java_stub#jetbrains.mps.nodeEditor(jetbrains.mps.nodeEditor@java_stub)" id="4086418108079063150" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="15" selStart="0" selEnd="0" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.lang.editor.tableTests.structure/StateMachine">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.tabbedEditor.TabbedEditor$MyFileEditorState" tab="1">
+          <memento>
+            <selectedCell cellId="Constant_83r2zf_a0" cellNumber="0" isInList="false">
+              <node model="r:08318e8b-b87d-4355-b53c-ed3d06786f3d(jetbrains.mps.lang.editor.tableTests.editor)" id="7483705179651268810" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="85" selStart="3" selEnd="3" />
+          </memento>
+          <inspectorMemento>
+            <selectedCell cellId="Constant_83r2zf_a0" cellNumber="0" isInList="false">
+              <node model="r:08318e8b-b87d-4355-b53c-ed3d06786f3d(jetbrains.mps.lang.editor.tableTests.editor)" id="7483705179651268810" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="85" selStart="3" selEnd="3" />
+          </inspectorMemento>
+          <inner_tabs>
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+          </inner_tabs>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.lang.editor.table.stateMachine.test/CompleteEmptyCell">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="Table_qpt50r_c0_row_0_column_0" cellNumber="0" isInList="false">
+              <node model="r:dc1400b5-0aa4-448e-8f15-11fb0ccb5c23(jetbrains.mps.lang.editor.table.stateMachine.test)" id="3676708844864308451" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="22" selStart="0" selEnd="0" />
+          </memento>
+          <inspectorMemento>
+            <selectedCell cellId="Table_qpt50r_c0_row_0_column_0" cellNumber="0" isInList="false">
+              <node model="r:dc1400b5-0aa4-448e-8f15-11fb0ccb5c23(jetbrains.mps.lang.editor.table.stateMachine.test)" id="3676708844864308451" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="22" selStart="0" selEnd="0" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.lang.editor.table.runtime/HierarchycalTableModelWithHeader">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="property_name" cellNumber="0" isInList="false">
+              <node model="r:b60215f1-3d3e-41cc-8321-723ef8eb59dd(jetbrains.mps.lang.editor.table.runtime)" id="6332812368705026198" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="370" selStart="23" selEnd="23" />
+          </memento>
+          <inspectorMemento>
+            <selectedCell cellId="property_name" cellNumber="0" isInList="false">
+              <node model="r:b60215f1-3d3e-41cc-8321-723ef8eb59dd(jetbrains.mps.lang.editor.table.runtime)" id="6332812368705026198" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="370" selStart="23" selEnd="23" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.nodeEditor.cellMenu@java_stub/DefaultChildSubstituteInfo">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+              <node model="f:java_stub#jetbrains.mps.nodeEditor.cellMenu(jetbrains.mps.nodeEditor.cellMenu@java_stub)" id="7974317052965879005" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="15" selStart="0" selEnd="0" />
+          </memento>
+          <inspectorMemento>
+            <selectedCell cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+              <node model="f:java_stub#jetbrains.mps.nodeEditor.cellMenu(jetbrains.mps.nodeEditor.cellMenu@java_stub)" id="7974317052965879005" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="15" selStart="0" selEnd="0" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/dt/source_gen/dt/editor/DecTab_Editor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="8" selection-start="2715" selection-end="2715" vertical-scroll-proportion="0.08108108" />
+      </provider>
+    </entry>
+    <entry file="mps://dt.structure/DecTab">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.tabbedEditor.TabbedEditor$MyFileEditorState" tab="10">
+          <memento>
+            <selectedCell cellId="Collection_i0gfbw_a" cellNumber="0" isInList="false">
+              <node model="r:4bdcf2ca-48fd-4477-8800-87374de97951(dt.generator.template.main@generator)" id="630605930737607514" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="0" selStart="null" selEnd="null" />
+          </memento>
+          <inspectorMemento>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="null" selStart="null" selEnd="null" />
+          </inspectorMemento>
+          <inner_tabs>
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+            <tab index="0" />
+          </inner_tabs>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://x/TestDecisionTables_Test">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="Constant_q24t2b_a0" cellNumber="0" isInList="false">
+              <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2150013547071016486" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="55" selStart="0" selEnd="0" />
+          </memento>
+          <inspectorMemento>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="null" selStart="null" selEnd="null" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://tableutil/XYCTableModel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="ReferencePresentation_91bvrs_a0a0" cellNumber="0" isInList="false">
+              <node model="r:77ba56f5-f631-4a14-a1a7-af66972908e5(tableutil)" id="1785869876438082977" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="590" selStart="5" selEnd="5" />
+          </memento>
+          <inspectorMemento>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="null" selStart="null" selEnd="null" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.lang.editor.table.runtime/TableModel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="property_name" cellNumber="0" isInList="false">
+              <node model="r:b60215f1-3d3e-41cc-8321-723ef8eb59dd(jetbrains.mps.lang.editor.table.runtime)" id="4490468428501048480" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="230" selStart="5" selEnd="5" />
+          </memento>
+          <inspectorMemento>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="null" selStart="null" selEnd="null" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/jetbrains.mps.lang.editor.table.utils/source_gen/tableutil/XYCTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/jetbrains.mps.lang.editor.table.utils/tableutil.mps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/jetbrains.mps.lang.editor.table.utils/jetbrains.mps.lang.editor.table.utils.msd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="mps://main/GSwitchRtBase">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+              <node model="r:bc6b1876-aa5e-4da6-82ff-00553cb5f1fe(main)" id="630605930737754536" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="15" selStart="0" selEnd="0" />
+          </memento>
+          <inspectorMemento>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="null" selStart="null" selEnd="null" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://x/RangeTest_Test">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.NodeEditor$MyFileEditorState">
+          <memento>
+            <selectedCell cellId="property_testCaseName" cellNumber="0" isInList="false">
+              <node model="r:604cc90d-ade5-48e0-8944-48a1f36531e5(x)" id="2960767502640604850" />
+            </selectedCell>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="110" selStart="0" selEnd="0" />
+          </memento>
+          <inspectorMemento>
+            <selectedStack />
+            <folded />
+            <textLine caretPosition="null" selStart="null" selEnd="null" />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
